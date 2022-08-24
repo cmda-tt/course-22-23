@@ -69,19 +69,19 @@ This page includes the planning and schedule of the Tech Track 22/23.
   </thead>
   <tbody>
   	<tr>
-  		<td>24th of October</td>
+  		<td>31st of October</td>
   		<td>Monday</td>
-  		<td>Welcome</td>
+  		<td>Web architecture</td>
   		<td>Robert & Vincent</td>
   	</tr>
   	<tr>
-  		<td>26th of October</td>
+  		<td>2nd of November</td>
   		<td>Wednesday</td>
-  		<td>Interactive data visualizations</td>
-  		<td>Vincent</td>
+  		<td>Data management</td>
+  		<td>[Cas Obdam (DEPT)](https://www.linkedin.com/in/cas-obdam-72480169/)</td>
   	</tr>
    	<tr>
-  		<td>28th of October</td>
+  		<td>5th of November</td>
   		<td>Friday</td>
   		<td>Functional usage of JavaScript</td>
   		<td>Robert</td>
