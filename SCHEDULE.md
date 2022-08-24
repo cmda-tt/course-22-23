@@ -42,5 +42,26 @@ This page includes the planning and schedule of the Tech Track 22/23.
   		<td>Functional usage of JavaScript</td>
   		<td>Robert</td>
   	</tr>
+  	<tr>
+  		<td colspan="4" align="center"><strong>Week 1</strong></td>
+  	<tr>
+  	<tr>
+  		<td>24th of October</td>
+  		<td>Monday</td>
+  		<td>Welcome</td>
+  		<td>Robert & Vincent</td>
+  	</tr>
+  	<tr>
+  		<td>26th of October</td>
+  		<td>Wednesday</td>
+  		<td>Interactive data visualizations</td>
+  		<td>Vincent</td>
+  	</tr>
+   	<tr>
+  		<td>28th of October</td>
+  		<td>Friday</td>
+  		<td>Functional usage of JavaScript</td>
+  		<td>Robert</td>
+  	</tr>
   </tbody>
  </table>
