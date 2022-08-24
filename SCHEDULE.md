@@ -2,7 +2,7 @@
 
 This page includes the planning and schedule of the Tech Track 22/23.
 
-<table>
+<table style="width:100%">
   <thead>
     <tr>
       <th><strong>Date</strong></th>
@@ -40,7 +40,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
   		<td>28th of October</td>
   		<td>Friday</td>
   		<td>Functional usage of JavaScript</td>
-  		<td>Robert & Vincent</td>
+  		<td>Robert</td>
   	</tr>
   </tbody>
  </table>
