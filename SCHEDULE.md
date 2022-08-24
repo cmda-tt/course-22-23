@@ -78,7 +78,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
   		<td>2nd of November</td>
   		<td>Wednesday</td>
   		<td>Data management</td>
-  		<td>[Cas Obdam (DEPT)](https://www.linkedin.com/in/cas-obdam-72480169/)</td>
+  		<td><a href="https://www.linkedin.com/in/cas-obdam-72480169/">Cas Obdam (DEPT)]</a></td>
   	</tr>
    	<tr>
   		<td>5th of November</td>
