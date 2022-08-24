@@ -8,7 +8,7 @@ The **Tech Track** is given at [**@CMDA**][cmda] in 2022 from
 October 24th until December 2nd.
 
 *   **Course**: Tech Track
-*   **Keywords**: Data, information, interactivity
+*   **Keywords**: data, information, interactivity, storytelling, visualization
 *   **Coordinators**: [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]) & [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh])
 *   **Lecturers**:
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]),
