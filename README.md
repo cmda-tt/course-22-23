@@ -123,9 +123,7 @@ docs and images are [CC-BY-4.0][].
 
 [university]: https://www.amsterdamuas.com
 
-[cmd-logo]: images/cmd.jpg
-
-[coc]: code-of-conduct.md
+[coc]: CODE-OF-CONDUCT.md
 
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 
