@@ -17,3 +17,7 @@ The following section contains a list of courses, books and articles to refresh 
 ### JavaScript
 
 * [🤖 Learn JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript) *(Core knowledge)*
+
+### Git (and GitHub)
+
+* [Learn Git & Github (Codecademy)](https://www.codecademy.com/learn/learn-git) *(Core knowledge)*
