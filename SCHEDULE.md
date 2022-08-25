@@ -203,7 +203,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
   	<tr>
   		<td>21th of November</td>
   		<td>Monday</td>
-  		<td>Debugging and general questions</td>
+  		<td>Refactoring and optimization</td>
   		<td>Robert & Vincent</td>
   	</tr>
   	<tr>
