@@ -6,6 +6,14 @@ This week is used to prepare yourself for the Tech Track. Maybe you're not as co
 
 The following section contains a list of courses, books and articles to refresh your memory, or dive into the languages and tools we will be using.
 
+### HTML
+
+* [🧱 Learn HTML (Codecademy)](https://www.codecademy.com/learn/learn-html) *(Core knowledge)*
+
+### CSS
+
+* [🎨 Learn CSS (Codecademy)](https://www.codecademy.com/learn/learn-css) *(Core knowledge)*
+
 ### JavaScript
 
-* [Codecademy Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript) *Mandatory*
+* [🤖 Learn JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript) *(Core knowledge)*
