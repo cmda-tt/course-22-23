@@ -8,7 +8,9 @@ The following section contains a list of courses, books and articles to refresh 
 
 ### HTML
 
+* [HTML basics (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics) *(Core knowledge)*
 * [🧱 Learn HTML (Codecademy)](https://www.codecademy.com/learn/learn-html) *(Core knowledge)*
+* [HTML reference list (MDN)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) *(Optional)*
 
 ### CSS
 
@@ -20,4 +22,4 @@ The following section contains a list of courses, books and articles to refresh 
 
 ### Git (and GitHub)
 
-* [Learn Git & Github (Codecademy)](https://www.codecademy.com/learn/learn-git) *(Core knowledge)*
+* [🧑‍💼 Learn Git & Github (Codecademy)](https://www.codecademy.com/learn/learn-git) *(Core knowledge)*
