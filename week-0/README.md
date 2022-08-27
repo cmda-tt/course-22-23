@@ -14,8 +14,9 @@ The following section contains a list of courses, books and articles to refresh 
 
 ### CSS
 
+* [CSS basics (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS) *(Core knowledge)*
 * [🎨 Learn CSS (Codecademy)](https://www.codecademy.com/learn/learn-css) *(Core knowledge)*
-
+* [CSS Tricks - almanac of CSS](https://css-tricks.com/) *(Optional)*
 ### JavaScript
 
 * [🤖 Learn JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript) *(Core knowledge)*
