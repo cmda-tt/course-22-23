@@ -17,10 +17,14 @@ The following section contains a list of courses, books and articles to refresh 
 * [CSS basics (MDN)](https://developer.mozilla.org/en-US/docs/Web/CSS) *(Core knowledge)*
 * [🎨 Learn CSS (Codecademy)](https://www.codecademy.com/learn/learn-css) *(Core knowledge)*
 * [CSS Tricks - almanac of CSS](https://css-tricks.com/) *(Optional)*
+
 ### JavaScript
 
+* [JavaScript basics (MDN)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) *(Core knowledge)*
 * [🤖 Learn JavaScript (Codecademy)](https://www.codecademy.com/learn/introduction-to-javascript) *(Core knowledge)*
+* [JavaScript notes and references (Wes Bos)](https://wesbos.com/javascript) *(Optional)*
 
 ### Git (and GitHub)
 
 * [🧑‍💼 Learn Git & Github (Codecademy)](https://www.codecademy.com/learn/learn-git) *(Core knowledge)*
+* [Oh My Git!](https://ohmygit.org/) *(Optional)*
