@@ -2,6 +2,12 @@
 
 > In this week, we'll be introducing the concept of interactive data visualization. We'll be working with a messy dataset you all created and fetch this data from a makeshift API. We'll also introduce the final assignments and requirements you need to fullfill beforehand. On Friday, we'll go deeper into JavaScript, and how we can use it to manipulate, transform and prepare datasets for our purposes.
 
+## Planning
+
+## Exercises
+
+## Resources
+
 <table style="width:100%">
   <thead>
     <tr>
