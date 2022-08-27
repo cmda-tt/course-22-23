@@ -8,7 +8,7 @@
 
 ## Resources
 
-* [J.S. et al. 2007. Toward a Deeper Understanding of the Role of Interaction in Information Visualization. IEEE Transactions on Visualization and Computer Graphics. Institute of Electrical and Electronics Engineers (IEEE).](https://ieeexplore.ieee.org/document/4376144)
+* [Yi, J.S. et al. 2007. Toward a Deeper Understanding of the Role of Interaction in Information Visualization. IEEE Transactions on Visualization and Computer Graphics. Institute of Electrical and Electronics Engineers (IEEE).](https://ieeexplore.ieee.org/document/4376144)
 * [Pike, W.A. et al. 2009. The Science of Interaction. Information Visualization. SAGE Publications.](https://journals.sagepub.com/doi/10.1057/ivs.2009.22)
 
 <table style="width:100%">
