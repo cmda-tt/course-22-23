@@ -44,7 +44,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
   	<tr>
   		<td>26th of October</td>
   		<td>Wednesday</td>
-  		<td>Interactive data visualizations</td>
+  		<td>Interactive data visualizations for the web</td>
   		<td>Vincent</td>
   	</tr>
    	<tr>
