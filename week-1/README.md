@@ -26,10 +26,18 @@ On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll int
 
 ## Exercises
 
+
+
 ## Resources
+
+Below is a list of references and resources. The academic ones are purely for reference, the practical ones can be read to explore in-class subjects deeper.
+
+### Academic
 
 * [Yi, J.S. et al. 2007. Toward a Deeper Understanding of the Role of Interaction in Information Visualization. IEEE Transactions on Visualization and Computer Graphics. Institute of Electrical and Electronics Engineers (IEEE).](https://ieeexplore.ieee.org/document/4376144)
 * [Pike, W.A. et al. 2009. The Science of Interaction. Information Visualization. SAGE Publications.](https://journals.sagepub.com/doi/10.1057/ivs.2009.22)
-* [Keim, D. et al. Visual Analytics: Definition, Process, and Challenges. Lecture Notes in Computer Science. Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/978-3-540-70956-5_7)
+* [Keim, D. et al. 2008. Visual Analytics: Definition, Process, and Challenges. Lecture Notes in Computer Science. Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/978-3-540-70956-5_7)
 
-* [Maciej, P 2019. Data mutation in functional JavaScript](https://dev.to/macsikora/data-mutation-in-functional-javascript-1h97)
+
+### Practical
+* [Data mutation in functional JavaScript](https://dev.to/macsikora/data-mutation-in-functional-javascript-1h97)
