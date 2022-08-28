@@ -14,11 +14,15 @@ We have compiled a list of three exercises, each gradually increasing in difficu
 
 ### Wednesday
 
-Today, we'll discuss data visualizations for the web. We're introducing SVG (Scalable Vector Graphs) and 
+Today, we'll discuss data visualizations for the web. We're introducing SVG (Scalable Vector Graphs) and start by visualizing the data we've collected on Monday.
 
 ### Thursday
 
+We're continuing our work from Wednesday with two new exercises. One involves rendering a table containing the raw data, the second one involves some data cleaning / normalizing / transforming and using this to prepare the data before creating a tabular view.
+
 ### Friday
+
+On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll introduce some advanced topics, such as functional programming, mutabillity, seperation of concerns and key build-in functions JavaScript already has. We'll introduce the `.map()`, `.filter()` and `.reduce()` methods and start chaining functions together in our programs.
 
 ## Exercises
 
