@@ -32,33 +32,4 @@ On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll int
 * [Pike, W.A. et al. 2009. The Science of Interaction. Information Visualization. SAGE Publications.](https://journals.sagepub.com/doi/10.1057/ivs.2009.22)
 * [Keim, D. et al. Visual Analytics: Definition, Process, and Challenges. Lecture Notes in Computer Science. Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/978-3-540-70956-5_7)
 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th><strong>Date</strong></th>
-      <th><strong>Day</strong></th>
-      <th><strong>Subject</strong></th>
-      <th><strong>Teachers</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-  	<tr>
-  		<td>24th of October</td>
-  		<td>Monday</td>
-  		<td>Welcome</td>
-  		<td>Robert & Vincent</td>
-  	</tr>
-  	<tr>
-  		<td>26th of October</td>
-  		<td>Wednesday</td>
-  		<td>Interactive data visualizations</td>
-  		<td>Vincent</td>
-  	</tr>
-   	<tr>
-  		<td>28th of October</td>
-  		<td>Friday</td>
-  		<td>Functional usage of JavaScript</td>
-  		<td>Robert</td>
-  	</tr>
-  </tbody>
-</table>
+* [Maciej, P 2019. Data mutation in functional JavaScript](https://dev.to/macsikora/data-mutation-in-functional-javascript-1h97)
