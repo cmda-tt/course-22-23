@@ -9,5 +9,5 @@ const data = [
 ]
 
 function convertArrayStringsToNumbers() {
-	/* Your code here should convert the data array to an array containing only numbers and no strings and log the code to the console.
+	/* Your code here should convert the data array to an array containing only numbers and no strings and log the code to the console. */
 }
