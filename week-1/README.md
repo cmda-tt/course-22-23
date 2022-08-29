@@ -26,7 +26,7 @@ On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll int
 
 ## Exercises
 
-
+* [Tuesday 1](/exercises/tuesday-1.js)
 
 ## Resources
 
@@ -41,3 +41,5 @@ Below is a list of references and resources. The academic ones are purely for re
 
 ### Practical
 * [Data mutation in functional JavaScript](https://dev.to/macsikora/data-mutation-in-functional-javascript-1h97)
+* [What is Functional Programming? A Beginner's JavaScript Guide](https://www.freecodecamp.org/news/functional-programming-in-javascript/)
+* [How to convert a string in JavaScript to an integer?](https://stackoverflow.com/questions/1133770/how-to-convert-a-string-to-an-integer-in-javascript)
