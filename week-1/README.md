@@ -27,6 +27,8 @@ On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll int
 ## Exercises
 
 * [Tuesday 1](./exercises/tuesday-1.js)
+* [Tuesday 2](./exercises/tuesday-2.js)
+* [Tuesday 3](./exercises/tuesday-3.js)
 
 ## Resources
 

@@ -1,4 +1,6 @@
-/* The following array contains multiple data types. Normalize them by converting them all to numbers using a function and log the result in the console */
+/*  The following array contains multiple data types.
+	Normalize them by converting them all to numbers using a function
+	and log the result in the console */
 
 const data = [
 	1,
