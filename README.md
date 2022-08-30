@@ -149,8 +149,8 @@ docs and images are [CC-BY-4.0][].
 
 [github]: https://github.com/cmda-tt/course-22-23
 
-[teams]: https://teams.microsoft.com/l/team/19%3abb5d1ccf5b92468dae0e0cc06c52a12e%40thread.tacv2/conversations?groupId=9797115c-dc0c-415f-a740-1c0a825baee1&tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7
+[teams]: https://teams.microsoft.com/l/team/19%3a8K1pERkqTDVyZDOWDwKziQPYR9tli69Z1hAmkWsgNJ41%40thread.tacv2/conversations?groupId=c0be8303-44e5-4326-a8b6-8dd6df6d75b4&tenantId=0907bb1e-21fc-476f-8843-02d09ceb59a7
 
-[Brightspace]: https://dlo.mijnhva.nl/d2l/home/32180
+[Brightspace]: https://dlo.mijnhva.nl/d2l/home/437179
 
 [lynda-portal]: https://lyndaportal.ict.hva.nl
