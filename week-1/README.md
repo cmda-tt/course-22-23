@@ -39,6 +39,9 @@ Below is a list of references and resources. The academic ones are purely for re
 * [Yi, J.S. et al. 2007. Toward a Deeper Understanding of the Role of Interaction in Information Visualization. IEEE Transactions on Visualization and Computer Graphics. Institute of Electrical and Electronics Engineers (IEEE).](https://ieeexplore.ieee.org/document/4376144)
 * [Pike, W.A. et al. 2009. The Science of Interaction. Information Visualization. SAGE Publications.](https://journals.sagepub.com/doi/10.1057/ivs.2009.22)
 * [Keim, D. et al. 2008. Visual Analytics: Definition, Process, and Challenges. Lecture Notes in Computer Science. Springer Berlin Heidelberg.](https://link.springer.com/chapter/10.1007/978-3-540-70956-5_7)
+* [Manovich, L. 2011. What is visualisation? Visual Studies. Informa UK Limited.](http://dx.doi.org/10.1080/1472586X.2011.548488)
+* [Ackoff, R.L. 1989. From data to wisdom. Journal of applied systems analysis, 16(1), pp.3-9.](https://faculty.ung.edu/kmelton/Documents/DataWisdom.pdf)
+* [McDowell, K. Storytelling wisdom: Story, information, and DIKW. Journal of the Association for Information Science and Technology. 2021 Oct;72(10):1223-33.](https://doi.org/10.1002/asi.24466)
 
 
 ### Practical
