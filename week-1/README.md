@@ -52,3 +52,4 @@ Below is a list of references and resources. The academic ones are purely for re
 ](https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript)
 * [How To Use the filter() Array Method in JavaScript](https://www.digitalocean.com/community/tutorials/js-filter-array-method)
 * [Filtering through an array of objects](https://codepen.io/robertspier/pen/mdpqZzQ)
+* [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
