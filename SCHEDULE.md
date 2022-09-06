@@ -137,7 +137,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
   	<tr>
   		<td>14th of November</td>
   		<td>Monday</td>
-  		<td>Animation and storytelling</td>
+  		<td>Animation</td>
   		<td>Robert & Vincent</td>
   	</tr>
   	<tr>
@@ -149,7 +149,7 @@ This page includes the planning and schedule of the Tech Track 22/23.
    	<tr>
   		<td>18th of November</td>
   		<td>Friday</td>
-  		<td>Introduction to GreenSock</td>
+  		<td>Interactive storytelling</td>
   		<td>Robert</td>
   	</tr>
   </tbody>
