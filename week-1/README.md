@@ -22,7 +22,7 @@ We're continuing our work from Wednesday with two new exercises. One involves re
 
 ### Friday
 
-On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll introduce some advanced topics, such as functional programming, mutabillity, seperation of concerns and key build-in functions JavaScript already has. We'll introduce the `.map()`, `.filter()` and `.reduce()` methods and start chaining functions together in our programs.
+On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll introduce some advanced topics, such as functional programming, mutabillity, seperation of concerns and key build-in functions JavaScript already has. We'll introduce the `.map()`, `.filter()` and `.reduce()` methods and start chaining functions together in our programs. Our endgoal here is call the API with our dummy data, clean it and display it in a browser, textually and visually using SVG.
 
 ## Exercises
 
@@ -53,3 +53,4 @@ Below is a list of references and resources. The academic ones are purely for re
 * [How To Use the filter() Array Method in JavaScript](https://www.digitalocean.com/community/tutorials/js-filter-array-method)
 * [Filtering through an array of objects](https://codepen.io/robertspier/pen/mdpqZzQ)
 * [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+* [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
