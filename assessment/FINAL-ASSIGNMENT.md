@@ -21,6 +21,21 @@ You hand in a `.zip` file (the one you can download from GitHub) on [DLO](https:
 
 ## Requirements
 
+*General*
+
+* Your website is handed in on DLO, is live on the internet for teachers to access and your GitHub contains a wiki with your process report.
+* Your deliverables have been handed in before the agreed upon deadline, which is the day before your oral assessment at 23:59.
+* Your code is clean, structured and contains no errors or bugs.
+* You've made sketchnotes / a report regarding the guest lectures, or have documented an article you've previously checked with a teacher
+
+*Architecture*
+
+* You're using at least one source of data.
+* You've either documented the process of transforming / cleaning this data, or have written code that enables you to parse the data before using it in the website
+* You're using at least one (non-micro) library or framework, and utlize this in a useful manner.
+* 
+
+
 ## Goals
 
 *  Clean, transform data with functional programming patterns
