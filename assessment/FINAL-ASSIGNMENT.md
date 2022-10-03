@@ -33,17 +33,27 @@ You hand in a `.zip` file (the one you can download from GitHub) on [DLO](https:
 * You're using at least one source of data.
 * You've either documented the process of transforming / cleaning this data, or have written code that enables you to parse the data before using it in the website
 * You're using at least one (non-micro) library or framework, and utlize this in a useful manner.
-* 
 
+*Visualization*
 
-## Goals
+* You've created a _customized data visualization_ using your own data, a sample bar chart does not count. This can be a proof of concept, and doesn't have to be included in your final project.
+* Users are able to interact with your visualization, and change / update the dataset to alter it.
+* You've chosen relevant means of visualizing your data. Applicable graphs and/or illustrations have been used for the appropriate type of data and you're able to explain your choices and provide alternatives.
 
-*  Clean, transform data with functional programming patterns
-*  Create interactive visualizations from (external) data
-*  Use D3 or other frameworks to create interactive visualization(s)
-*  Work with front-end framework and think in components
-*  Apply meaningul animation and / or storytelling in your visualization.
-*  Refactor, debug and read complex programs (code)
+*Storytelling*
+
+* You're telling a story. Your application converts data to information and knowledge to provide the user with wisdom (DIKW pyramid).
+* You're make use of key elements, such as transitions, animations, navigation or others to provide the users in a narrative experience.
+* The goal of your application is specified for the target audience you're serving.
+
+*Wiki*
+
+* Your wiki contains the instructions for a peer to download, run and deploy your application.
+* Your wiki contains the research conducted in order to create your application, this includes the required data(sets), examples of similar or interesting existing visualizations and sketches of your own concept.
+* Your wiki lists the resources used in your application.
+* Your wiki contains a (weekly or daily) log of activities.
+* Your wiki contains a reflection on your delivered work, a "what could have gone better" and "where am I proud of?".
+
 
 ## Grading
 

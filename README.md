@@ -108,11 +108,11 @@ by it.
 
 Staff and students of the Amsterdam University of Applied Sciences (Hogeschool
 van Amsterdam) are additionally bound by the [Regulation Undesirable
-Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]).
+Conduct][ruc] ([Regeling Ongewenst Gedrag][rog]) and the [HvA gedragscode][hvagedrag].
 
 ## License
 
-Unless stated otherwise, code is [MIT][] © [Robert Spier][roberrrt-s-gh] & [Vincent Vijn][vijnv-gh]
+Unless stated otherwise, code is [MIT][mit] © [Robert Spier][roberrrt-s-gh] & [Vincent Vijn][vijnv-gh]
 docs and images are [CC-BY-4.0][].
 
 <!-- Definitions -->
@@ -128,6 +128,8 @@ docs and images are [CC-BY-4.0][].
 [ruc]: https://www.amsterdamuas.com/practical-matters/algemeen/hva-breed/juridische-zaken/legal-affairs/regulation-undesirable-conduct/regulation-undesirable-conduct.html#anker-3-complaints-authority
 
 [rog]: https://www.hva.nl/praktisch/algemeen/hva-breed/juridische-zaken/loket-beroep-bezwaar-en-klacht/regeling-ongewenst-gedrag/regeling-ongewenst-gedrag.html?origin=gbS4rg%2FDTZuxQ6lGVF%2BN1A
+
+[hvagedrag]: https://www.hva.nl/over-de-hva/organisatie/goed-bestuur/gedragscode-van-de-hva/gedragscode-van-de-hva.html
 
 [mit]: license.md#code
 
