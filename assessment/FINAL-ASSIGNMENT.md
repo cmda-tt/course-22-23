@@ -57,4 +57,4 @@ You hand in a `.zip` file (the one you can download from GitHub) on [DLO](https:
 
 ## Grading
 
-You will be graded in an oral assessment on the final day of the Tech-Track. For the grading form used, please [visit the GRADING.md file](./GRADING.md).
+You will be graded in an oral assessment on the final day of the Tech-Track. For the grading form used, please [visit the assignment on DLO](https://dlo.mijnhva.nl/d2l/home/437179).
