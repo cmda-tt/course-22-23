@@ -12,6 +12,11 @@ Welcome to the Tech-Track! Today, we'll introduce the course, your teachers, the
 
 We have compiled a list of three exercises, each gradually increasing in difficulty. Start with the easiest, and make your way up until the latest. For the first exercise, an example and solution will be provided. For the second and third, we'll discuss those on Friday.
 
+If you're unable to progress or encounter any hardships, be sure to ask your fellow students using Teams, or follow some of the freeCodeCamp tutorials to improve your JavaScript skills:
+
+ - [freeCodeCamp | Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+ - [freeCodeCamp | Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+
 ### Wednesday
 
 Today, we'll discuss data visualizations for the web. We're introducing SVG (Scalable Vector Graphs) and start by visualizing the data we've collected on Monday.
@@ -20,9 +25,15 @@ Today, we'll discuss data visualizations for the web. We're introducing SVG (Sca
 
 We're continuing our work from Wednesday with two new exercises. One involves rendering a table containing the raw data, the second one involves some data cleaning / normalizing / transforming and using this to prepare the data before creating a tabular view.
 
+In addition, we have the following courses that can help you improve your JavaScript skills:
+
+ - [freeCodeCamp | ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+ - [freeCodeCamp | Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+ - [freeCodeCamp | Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+
 ### Friday
 
-On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll introduce some advanced topics, such as functional programming, mutabillity, seperation of concerns and key build-in functions JavaScript already has. We'll introduce the `.map()`, `.filter()` and `.reduce()` methods and start chaining functions together in our programs. Our endgoal here is call the API with our dummy data, clean it and display it in a browser, textually and visually using SVG.
+On Friday, the final lesson of this week is a deep-dive in JavaScript. We'll continue on some advanced topics, such as functional programming, mutabillity, seperation of concerns and key build-in functions JavaScript already has. We'll discuss the `.map()`, `.filter()` and `.reduce()` methods and start chaining functions together in our programs. Our endgoal here is call the API with our dummy data, clean it and display it in a browser, textually and visually using SVGs.
 
 ## Exercises
 
