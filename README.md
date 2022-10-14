@@ -12,7 +12,7 @@ October 24th until December 2nd.
 *   **Coordinators**: [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]) & [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh])
 *   **Lecturers**:
     [Robert Spier][roberrrt-s-gh] ([**@roberrrt-s**][roberrrt-s-gh]),
-    [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh]),
+    [Vincent Vijn][vijnv-gh] ([**@vijnv**][vijnv-gh]), [Laura Benvenuti][laura-gh] ([**@LauraBenvenuti**][laura-gh])
 *   **Credit**: 9 ECTS
 *   **University**: [Amsterdam University of Applied Sciences][university]
 *   **Programme**: [Communication and Multimedia Design][cmda] (full time bachelor CROHO: `34092`)
@@ -144,6 +144,8 @@ docs and images are [CC-BY-4.0][].
 [roberrrt-s-gh]: https://github.com/roberrrt-s
 
 [vijnv-gh]: https://github.com/vijnv
+
+[laura-gh]: https://github.com/LauraBenvenuti
 
 [minor]: https://cmda.github.io/minor-everything-web/
 

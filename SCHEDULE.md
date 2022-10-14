@@ -201,19 +201,19 @@ This page includes the planning and schedule of the Tech Track 22/23.
   </thead>
   <tbody>
   	<tr>
-  		<td>21th of November</td>
+  		<td>28th of November</td>
   		<td>Monday</td>
   		<td>Refactoring and optimization</td>
   		<td>Robert & Vincent</td>
   	</tr>
   	<tr>
-  		<td>23th of November</td>
+  		<td>30th of November</td>
   		<td>Wednesday</td>
   		<td>Q&A and peer feedback</td>
   		<td>Vincent</td>
   	</tr>
    	<tr>
-  		<td>25th of November</td>
+  		<td>2nd of December</td>
   		<td>Friday</td>
   		<td>Assessment</td>
   		<td>Robert & Vincent</td>
