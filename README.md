@@ -100,6 +100,12 @@ design bachelor focused on interactive digital products and services.
 CMD is part of the [Faculty of Digital Media and Creative Industries][faculty]
 at the [Amsterdam University of Applied Sciences][university].
 
+## Resit
+
+> If you're a student from earlier years (before 22-23), please contact the module coordinators on how to best retake (partially) the tech-track this year.
+
+The resit of the Tech Track will be at the end of Semester 1 of the 22-23 year. Further communication regarding the specific deliverables and time will be communicated at the end of the 6-week tech track.
+
 ## Conduct
 
 This track has a [Code of Conduct][coc].
