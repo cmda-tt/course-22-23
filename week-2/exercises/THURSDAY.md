@@ -11,5 +11,5 @@
 ## Deliverables
 
  - See the deliverables from Tuesday.
- - Enter your Github URL and subject on Teams. Information Design > Tech Track > Files > Tech Track intakes
+ - Enter your Github URL and subject on Teams. Information Design » Tech Track » Files » Tech Track intakes
 
