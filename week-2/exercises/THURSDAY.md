@@ -6,7 +6,7 @@
 
  - Finish the assignments set on [Tuesday](./TUESDAY.md), and define hard choices so you can benchmark your visualization. Remember, it's best to formulate goals, not one final product. Start with a simple visualization and if you're satisfied, move on to a more complex one. This is how you build your final product.
 
- - You've been playing around with the [boilerplate](./boilerplate) from Monday. We now expect you to have it fully up and running so you can implement your choices and ideas. Usage of codepen / vizhub or other external tools is still valid, but only for experimenting, templating or sharing your problem / code with someone. Be sure to utilize GitHub as well and keep your repository well updated from now on.
+ - You've been playing around with the [boilerplate](../boilerplate) from Monday. We now expect you to have it fully up and running so you can implement your choices and ideas. Usage of codepen / vizhub or other external tools is still valid, but only for experimenting, templating or sharing your problem / code with someone. Be sure to utilize GitHub as well and keep your repository well updated from now on.
 
 ## Deliverables
 

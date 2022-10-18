@@ -7,7 +7,7 @@
 
 ### Monday
 
-Today, we'll discuss and set up the tech stack you'll be using. Since this course only includes FED, no form of back-end is required. We've set up a small [boilerplate](https://en.wikipedia.org/wiki/Boilerplate_code) to get everyone up and ready. If you feel your own setup will be a better fit, or you would like to improve on the existing one: Be sure to do so!
+Today, we'll discuss and set up the tech stack you'll be using. Since this course only includes FED, no form of back-end is required. [We've set up](./boilerplate) a small [boilerplate](https://en.wikipedia.org/wiki/Boilerplate_code) to get everyone up and ready. If you feel your own setup will be a better fit, or you would like to improve on the existing one: Be sure to do so!
 
 ### Tuesday
 
