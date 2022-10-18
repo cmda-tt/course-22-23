@@ -19,7 +19,7 @@ Cas Obdamn, a data engineer from DEPT will be over today to explain why managing
 
 ### Thursday
 
-Today we'll continue on your research from tuesday.
+Today we'll continue on your research from tuesday. It is expected you make adequate choices and create or fetch the dataset you're going to visualize.
 
 ### Friday
 
