@@ -19,7 +19,7 @@ Cas Obdamn, a data engineer from DEPT will be over today to explain why managing
 
 ### Thursday
 
-We're expecting you to sketch out your conceptual ideas for your interactive data visualization.
+Today we'll continue on your research from tuesday.
 
 ### Friday
 
