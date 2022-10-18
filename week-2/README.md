@@ -36,5 +36,13 @@ Below is a list of references and resources. The academic ones are purely for re
 
 ### Academic
 
+ - [Kelleher, C. (2014). VISUALIZING THE UNIVERSAL DATA CUBE (Doctoral dissertation, University of Massachusetts Lowell).](https://curran.github.io/phd/dissertation/dissertation.pdf)
+ - [Bostock, M., Ogievetsky, V., & Heer, J. (2011). D³ Data-Driven Documents. In IEEE Transactions on Visualization and Computer Graphics (Vol. 17, Issue 12, pp. 2301–2309).](https://ieeexplore.ieee.org/iel5/2945/6064926/06064996.pdf)
 
 ### Practical
+
+> Most of what Curran has to offer is of impeccable value if you wish to create visualizations for the web. You can find all of his work on [Datavis 2020](https://datavis.tech/datavis-2020/), to make sure you spend your time well, we advise you to at least look at the following items:
+
+ - [Preparing Data for Visualization](https://www.youtube.com/watch?v=8tJV3jMHyEQ)
+ - [Visualization of current events](https://datavis.tech/visualizations-of-current-events/)
+ - [Inputs for Visualization: Data and Tasks](https://www.youtube.com/watch?v=Gle7a8qPf8k&list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV&index=18)
