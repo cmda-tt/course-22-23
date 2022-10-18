@@ -21,7 +21,6 @@
 
 ## Exercises
 
-* test
 
 ## Resources
 
