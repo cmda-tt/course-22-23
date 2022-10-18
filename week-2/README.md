@@ -2,7 +2,6 @@
 
 > In week 2, we will be setting up the foundation of your interactive data visualization. In paralel, you'll be working on the dataset(s) you wish to use by doing indepentent research, as well as start by concepting possible (types of) visualizations. For inspiration, we recommend Observable HQ or the cases of students from the previous years.
 
-
 ## Planning
 
 ### Monday
