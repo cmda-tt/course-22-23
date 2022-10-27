@@ -45,7 +45,7 @@ function generateTable() {
 		theading.appendChild(newElement);
 	})
 
-	/* This gives us the headings for our table, great! Now for the content... 
+	/* This gives us the headings for our table, great! Now for the content...
 		As you can see, I name the parameter "obj", short for Object, this time,
 		this is because every individual item in the loop now is an object, not the key of an object
 	*/
