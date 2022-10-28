@@ -1,0 +1,11 @@
+h1 {
+	font-size: 8em;
+	line-height: 0;
+}
+
+button {
+	position: fixed;
+	top: .5em;
+	right: .5em;
+	padding: .25em;
+}
