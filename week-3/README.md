@@ -10,14 +10,26 @@ You've passed 1/3rd of the Tech Track! Many congratulations on making it this fa
 
 ### Tuesday
 
+There are several practice assignments on freeCodeCamp you're expected to do today:
 
+ - [Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/#data-visualization-with-d3)
+ - [JSON APIs and AJAX](https://www.freecodecamp.org/learn/data-visualization/#json-apis-and-ajax)
+
+If you don't understand everything, don't worry, we'll discuss some more on Wednesday and Friday. The second mail is especially specific.
 
 ### Wednesday
 
 Today is our guest lecture by Wimer Hazenberg from [Clarify](https://clarify.nl/). Wimer is going to explain how they've build the website for the [Planbureau voor de Leefomgeving](https://www.pbl.nl/). His talk will also visit topics like accessibility and requirements for governmental websites.
 
+Before that, we'll do a quick rundown on axis and scales, the subjects of the Data Visualization course on Tuesday.
+
 ### Thursday
 
+Today's the day your going to create your own visualization. Don't worry for now, we'll ask you to load your own data inside an existing visualization. That's the easiest way to get it done.
+
+If you're feeling dapper, you can also try to create your own barchart from scratch, or start modifying existing D3 visualizations.
+
+Please do note: We're using the D3 V7 version of the library, this means code using prior versions will be deprecated or simply outdated. Check which D3 version your example is using before editing it. We'll only use V7 in our examples.
 
 ### Friday
 

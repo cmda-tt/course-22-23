@@ -12,6 +12,8 @@ Today, we'll discuss and set up the tech stack you'll be using. Since this cours
 
 We're expecting you to conduct some research into public datasets today, and maybe explore possible ways of visualization. In addition, you're going to inspect some online and interactive visualizations and analyze them in order to decide possible methods of visualizing for your own project.
 
+Please make sure to note these in your documentation / wiki as part of your process!
+
 ### Wednesday
 
 Cas Obdamn, a data engineer from DEPT will be over today to explain why managing large datasets properly is important, and how the skills you'll be learning today can be used in a professional environment.
@@ -20,9 +22,13 @@ Cas Obdamn, a data engineer from DEPT will be over today to explain why managing
 
 Today we'll continue on your research from tuesday. It is expected you make adequate choices and create or fetch the dataset you're going to visualize.
 
+Please make sure to note these in your documentation / wiki as part of your process!
+
 ### Friday
 
 Today, we'll finalize our set up for the coming 4 weeks. We'll discuss libraries and frameworks, and learn to import them using NPM. In addition, we'll also introduce concepts like Sass and/or TypeScript. You're free to choose or ignore these elements as you please, but it's good to familiarize yourself with them.
+
+In the lesson itself, we'll do peer and expert reviews with the teachers to see if you're ready to build your visualizations next week.
 
 ## Exercises
 
