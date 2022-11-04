@@ -28,6 +28,8 @@ Please make sure to note these in your documentation / wiki as part of your proc
 
 Today, we'll finalize our set up for the coming 4 weeks. We'll discuss libraries and frameworks, and learn to import them using NPM. In addition, we'll also introduce concepts like Sass and/or TypeScript. You're free to choose or ignore these elements as you please, but it's good to familiarize yourself with them.
 
+We also have a workshop on Object Oriented Programming (OOP) planned today, this will help you better understand how the libraries and frameworks we use are being build.
+
 In the lesson itself, we'll do peer and expert reviews with the teachers to see if you're ready to build your visualizations next week.
 
 ## Exercises
