@@ -37,6 +37,8 @@ You've been exploring D3 for a week now, it's time to start the final part of th
 
 ## Exercises
 
+* [Tuesday](./exercises/TUESDAY.md)
+* [Thursday](./exercises/THURSDAY.md)
 
 ## Resources
 
