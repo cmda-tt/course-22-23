@@ -47,3 +47,5 @@ Below is a list of references and resources. The academic ones are purely for re
 
 ### Practical
 
+ - [25 Days of D3.js](https://observablehq.com/@thetylerwolf/25-days-of-d3)
+
