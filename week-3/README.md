@@ -50,4 +50,3 @@ Below is a list of references and resources. The academic ones are purely for re
  - [25 Days of D3.js](https://observablehq.com/@thetylerwolf/25-days-of-d3)
  - [Visualization with D3](https://rpruim.github.io/D3/notes/d3.html)
  - [D3 Interaction: Drop Down Menu's](https://bl.ocks.org/rpruim/fd50d23933c63f3113a2bb8576b5b34a)
-
