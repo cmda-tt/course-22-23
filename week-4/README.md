@@ -28,7 +28,8 @@ All out! Today we're going to highlight some amazing stuff other people made, we
 
 ## Exercises
 
-* [Thursday](./exercises/THURSDAY.md)
+* [Tuesday: Watch Oh Snap!](https://www.youtube.com/watch?v=34zcWFLCDIc)
+* [Thursday: Read Animate.css Best Practices]([animate.css](https://animate.style/#best-practices))
 
 ## Resources
 
