@@ -177,13 +177,13 @@ This page includes the planning and schedule of the Tech Track 22/23.
   		<td>23th of November</td>
   		<td>Wednesday</td>
   		<td>Q&A and peer feedback</td>
-  		<td>Vincent</td>
+  		<td>Robert</td>
   	</tr>
    	<tr>
   		<td>25th of November</td>
   		<td>Friday</td>
   		<td>Documentation, presentation and deployment</td>
-  		<td>Robert</td>
+  		<td>Vincent</td>
   	</tr>
   </tbody>
  </table>
